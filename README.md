@@ -1,1 +1,3 @@
-This project focuses on predicting churn rate amongst customers
+# Telco_Customer_Churn_Prediction
+This is a customer churn prediction model for a telecommunication company
+>>>>>>> 0cd4105 (Initial commit)
